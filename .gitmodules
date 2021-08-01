@@ -1,0 +1,6 @@
+[submodule "Musicbar-client"]
+	path = Musicbar-client
+	url = https://github.com/engine210/Musicbar-client.git
+[submodule "Musicbar-server"]
+	path = Musicbar-server
+	url = https://github.com/engine210/Musicbar-server.git
